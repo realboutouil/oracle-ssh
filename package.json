@@ -1,0 +1,24 @@
+{
+  "name": "oracle-ssh",
+  "version": "1.0.0",
+  "description": "Connect to oracle database using ssh tunnel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ssh","oracle","oracledb","oracle-ssh"],
+  "author": "Mohammed Amine Boutouil",
+  "license": "MIT",
+  "dependencies": {
+    "ssh2": "^0.8.8",
+    "oracledb": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedamineboutouil/oracle-ssh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohammedamineboutouil/oracle-ssh/issues"
+  },
+  "homepage": "https://github.com/mohammedamineboutouil/oracle-ssh#readme"
+}
